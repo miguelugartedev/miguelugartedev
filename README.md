@@ -1,61 +1,98 @@
-<h1 align="center">Hola, soy Miguel Ugarte 👋</h1>
-
-<h3 align="center">Desarrollador de Software | Estudiante de Ingeniería en Computación</h3>
-
-<p align="center">
-  Soy un desarrollador enfocado en la creación de soluciones tecnológicas eficientes, bases de datos y la automatización de procesos. Combino mis habilidades técnicas con un fuerte pensamiento analítico y una sólida disposición al aprendizaje continuo.
-</p>
-
----
-
-### 👨‍💻 Sobre mí
-
-- 🎓 Estudiante de **cuarto año de Ingeniería en Computación** en la Universidad Nacional de Ingeniería (UNI).
-- 💻 Experiencia en desarrollo web con **JavaScript, Node.js y React.js**.
-- ⚙️ Especialista en automatización de flujos de trabajo e integraciones de APIs utilizando **n8n**.
-- 🎮 Desarrollador de videojuegos indie utilizando **Godot Engine**.
-- 🐧 Usuario habitual de **Linux (Fedora)** para mis entornos de desarrollo.
-- 🤝 Experiencia previa en soporte al usuario y atención a técnicos, aportando una comunicación clara y resolución de incidencias.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
-  
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://raw.githubusercontent.com/7wq/7wq/main/coding.gif" width="120" alt="Coding GIF">
+  <br>
+
+  <a href="https://github.com/miguelugartedev">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1500&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola,+soy+Miguel+Ugarte+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <b>Estudiante de Ingeniería en Computación</b> transformando lógica compleja en soluciones eficientes, desde la base de datos hasta el despliegue.
+  </p>
 </div>
 
----
+<br>
 
-### 💼 Experiencia Destacada
+## 🚀 Sobre mi trabajo y enfoque
 
-* **Xolotlán Studios:** Desarrollo de un sistema lógico de gestión de citas mediante *n8n*, integrando calendarios y notificaciones automáticas para optimizar procesos internos.
-* **Concentrix:** Atención a técnicos y resolución eficiente de incidencias, asegurando el cumplimiento de tiempos de servicio.
+- 🔭 Actualmente desarrollando un **Sistema Multi-Tenant (SaaS)** para gestión de citas.
+- ⚙️ Diseñando automatizaciones de flujos de trabajo e integraciones de APIs con **n8n**.
+- 🐧 Manteniendo mis entornos de desarrollo nativos en **Linux (Fedora)**, con fuerte dominio de la terminal.
+- 🎓 Cursando mi cuarto año en la **Universidad Nacional de Ingeniería (UNI)**.
+- 🤝 Fuerte enfoque en la documentación estructurada, arquitecturas limpias y resolución de problemas técnicos complejos.
 
----
+<br>
 
-### 📊 Mis Estadísticas de GitHub
+## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelugartedev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Miguel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelugartedev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes Top" />
+  
+  <h3>🌐 Frontend y Diseño Web</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=6" />
+  </a>
+
+  <br><br>
+
+  <h3>⚙️ Backend y Base de Datos</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres&theme=dark&perline=6" />
+  </a>
+
+  <br><br>
+
+  <h3>🛠️ DevOps, Entorno y Herramientas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,godot,postman&theme=dark&perline=6" />
+  </a>
+
+  <br><br>
+  
+  <h3>🤖 Automatización y Gestión de Datos</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+    <img src="https://img.shields.io/badge/Bruno-E26E40?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </p>
 </div>
 
----
+<br>
 
-### 📫 Contacto
+## 💼 Experiencia y Logros Destacados
+
+<details>
+  <summary><b>🎬 Xolotlán Studios | Desarrollo de Sistemas (Desplegar)</b></summary>
+  <br>
+  Desarrollo e implementación de un sistema lógico avanzado para la gestión de citas utilizando <b>n8n</b>. Integración de calendarios, automatización de notificaciones y optimización de los procesos internos del estudio, reduciendo el trabajo manual.
+</details>
+
+<details>
+  <summary><b>🎧 Concentrix | Soporte Técnico (Desplegar)</b></summary>
+  <br>
+  Atención a técnicos en campo y resolución eficiente de incidencias. Desarrollo de habilidades de comunicación asertiva, trabajo bajo presión y cumplimiento estricto de tiempos de servicio (SLAs).
+</details>
+
+<br>
+
+## 📊 Analíticas de Desarrollo
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=miguelugartedev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelugartedev&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="mailto:miguelugartedev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-miguelugartedev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contáctame-miguelugartedev%40gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
   </a>
 </div>
