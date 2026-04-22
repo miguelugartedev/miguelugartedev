@@ -6,6 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1500&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola,+soy+Miguel+Ugarte+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 
+  <h3>Desarrollador de Software | Automatización | Estudiante de Ingeniería</h3>
+
   <p>
     <b>Estudiante de Ingeniería en Computación</b> transformando lógica compleja en soluciones eficientes, desde la base de datos hasta el despliegue.
   </p>
