@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/7wq/7wq/main/coding.gif" width="120" alt="Coding GIF">
   <br><br>
 
-  <a href="https://github.com/miguelugartedev">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1500&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola,+soy+Miguel+Ugarte+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+<a href="https://github.com/miguelugartedev">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola,+soy+Miguel+Ugarte;Desarrollador+de+Software;Estudiante+de+Ingenieria;Arquitecturas+escalables" alt="Typing SVG" />
+</a>
 
   <h3>Desarrollador de Software | Estudiante de Ingeniería en Computación</h3>
 
@@ -110,7 +110,7 @@
 </details>
 
 <details>
-  <summary><b>🎧 Concentrix | Soporte Técnico B2B (Honduras)</b></summary>
+  <summary><b>🎧 Concentrix | Soporte Técnico (Honduras)</b></summary>
   <br>
   <blockquote>
     Atención a técnicos en campo y resolución eficiente de incidencias utilizando plataformas empresariales. Desarrollo de habilidades sólidas de comunicación asertiva, resolución de problemas bajo presión y cumplimiento estricto de tiempos de servicio (SLAs).
