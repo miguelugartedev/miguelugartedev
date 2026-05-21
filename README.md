@@ -26,38 +26,56 @@
 <br>
 
 ## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-<div align="center">
-  
-  <h3>🌐 Frontend y Diseño Web</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=6" />
-  </a>
-
-  <br><br>
-
-  <h3>⚙️ Backend y Base de Datos</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres&theme=dark&perline=6" />
-  </a>
-
-  <br><br>
-
-  <h3>🛠️ DevOps, Entorno y Herramientas</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,godot,postman&theme=dark&perline=6" />
-  </a>
-
-  <br><br>
-  
-  <h3>🤖 Automatización y Gestión de Datos</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-    <img src="https://img.shields.io/badge/Bruno-E26E40?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </p>
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🌐 Frontend & UI</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite,figma&theme=dark&perline=4" alt="Frontend Stack" />
+      </a>
+      <br>
+      <p><i>Framer Motion | React Router</i></p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>⚙️ Backend & Bases de Datos</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark&perline=4" alt="Backend Stack" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🛠️ DevOps, Entorno & Cloud</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vercel,netlify&theme=dark&perline=4" alt="DevOps Stack" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
+      <img src="https://img.shields.io/badge/Fork-000000?style=flat-square&logo=git&logoColor=white" alt="Fork Client" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🤖 Automatización, Auth & Gestión</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark&perline=4" alt="Auth & Tools" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+      <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram API" />
+      <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Beekeeper-FFE600?style=flat-square&logo=sqlite&logoColor=black" alt="Beekeeper" />
+      <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
+      <img src="https://img.shields.io/badge/Bruno-E26E40?style=flat-square&logo=bruno&logoColor=white" alt="Bruno" />
+      <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
