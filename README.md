@@ -117,40 +117,26 @@
   </blockquote>
 </details>
 
-<br>
+
 
 <hr>
-
-## 📊 Analíticas de Desarrollo
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=miguelugartedev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos" title="GitHub Profile Trophies" />
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelugartedev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Github Stats" title="GitHub Overview Stats" />
-</div>
-
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=miguelugartedev&theme=radical&hide_border=true&layout=compact" alt="Github Languages" title="Top Languages Used" />
-</div>
 
-<br>
+## 🎯 Estado Actual & Contacto
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelugartedev&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" title="GitHub Contribution Streak" />
-</div>
-
-<br>
-
-<div align="center">
+  <p><b>Transformando lógica compleja en arquitecturas escalables.</b></p>
+  <p>Construyendo código limpio, automatizaciones eficientes y soluciones backend robustas.</p>
+  <br>
+  
   <a href="mailto:miguelugartedev@gmail.com">
-    <img src="https://img.shields.io/badge/Contáctame-miguelugartedev%40gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" title="Send email to Miguel Ugarte" />
+    <img src="https://img.shields.io/badge/Hablemos_por_Email-miguelugartedev%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" title="Envíame un correo" />
+  </a>
+  
+  <a href="https://github.com/miguelugartedev">
+    <img src="https://img.shields.io/badge/GitHub-Explorar_Repositorios-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="Ver mi código" />
   </a>
 </div>
+
+<br>
