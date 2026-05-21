@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td width="50%" align="left" valign="top" style="border: none; padding: 10px;">
-      <h3>🎮 Desarrollo de Videojuegos & IA Avanzada</h3>
+      <h3>🎮 Desarrollo de Videojuegos</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=godot,blender,theme=dark" alt="Game Dev & IA" title="Godot Engine, Blender 3D," />
     </td>
