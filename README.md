@@ -1,89 +1,113 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/7wq/7wq/main/coding.gif" width="120" alt="Coding GIF">
-  <br>
+  <br><br>
 
   <a href="https://github.com/miguelugartedev">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1500&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola,+soy+Miguel+Ugarte+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 
-  <h3>Desarrollador de Software | Automatización | Estudiante de Ingeniería</h3>
+  <h3>Desarrollador de Software | Estudiante de Ingeniería en Computación</h3>
 
   <p>
-    <b>Estudiante de Ingeniería en Computación</b> transformando lógica compleja en soluciones eficientes, desde la base de datos hasta el despliegue.
+    Transformando lógica compleja en soluciones eficientes, desde la arquitectura de bases de datos hasta el despliegue.
   </p>
 </div>
 
 <br>
 
-## 🚀 Sobre mi trabajo y enfoque
+<hr>
+
+## 🚀 Visión y Enfoque
 
 - 🔭 Actualmente desarrollando un **Sistema Multi-Tenant (SaaS)** para gestión de citas.
-- ⚙️ Diseñando automatizaciones de flujos de trabajo e integraciones de APIs con **n8n**.
-- 🐧 Manteniendo mis entornos de desarrollo nativos en **Linux (Fedora)**, con fuerte dominio de la terminal.
+- 🎮 Diseñando y programando entornos 3D para videojuegos enfocados en el terror psicológico.
+- ⚙️ Creando automatizaciones de flujos de trabajo e integraciones complejas de APIs.
+- 🐧 Manteniendo mis entornos de desarrollo nativos en **Linux (Fedora / Arch / Nobara)**, con un fuerte dominio de la terminal.
 - 🎓 Cursando mi cuarto año en la **Universidad Nacional de Ingeniería (UNI)**.
-- 🤝 Fuerte enfoque en la documentación estructurada, arquitecturas limpias y resolución de problemas técnicos complejos.
-
-<br>
-<table width="100%" align="center" cellspacing="15">
-<tr>
-<td width="10%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
-<h4>🌐 Frontend & UI/UX</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma&theme=dark&perline=4" alt="Frontend" />
-<br><br>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" title="Framer Motion" height="35" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" title="React Router" height="35" />
-</td>
-<td width="50%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
-<h4>⚙️ Backend, Bases de Datos & TS</h4>
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,mongodb,postgres,mysql&theme=dark&perline=4" alt="Backend" />
-<br><br>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" title="SQL Server" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" title="Mongoose" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
-<h4>🛠️ DevOps & Entorno Linux</h4>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vercel,netlify&theme=dark&perline=4" alt="DevOps" />
-<br><br>
-<img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" title="Fedora" height="35" />
-<img src="https://img.shields.io/badge/Fork-000000?style=flat-square&logo=git&logoColor=white" title="Fork Client" height="35"/>
-</td>
-<td width="50%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
-<h4>🤖 Automatización, Auth & Gestión</h4>
-<img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark&perline=4" alt="Tools" />
-<br><br>
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" title="n8n" height="30" />
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" title="Telegram" height="30" />
-<img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" title="Auth0" height="30" />
-<br>
-<img src="https://img.shields.io/badge/Beekeeper-FFE600?style=flat-square&logo=sqlite&logoColor=black" title="Beekeeper" />
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" title="DBeaver" />
-<img src="https://img.shields.io/badge/Bruno-E26E40?style=flat-square&logo=bruno&logoColor=white" title="Bruno" />
-<br>
-<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" title="Obsidian" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" title="Notion" />
-</td>
-</tr>
-</table>
+- 🤝 Fuerte enfoque en arquitecturas limpias, código estructurado (routers, controllers, services) y resolución de problemas técnicos.
 
 <br>
 
-## 💼 Experiencia y Logros Destacados
+<hr>
+
+## 💻 Arquitectura de mi Ecosistema
+
+<br>
+
+### 🌐 Frontend & UI/UX
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma&theme=dark" alt="Frontend" />
+<br><br>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" title="Framer Motion" height="28" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" title="React Router" height="28" />
+
+<br>
+
+### ⚙️ Backend & Lógica de Servidor
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,java&theme=dark" alt="Backend" />
+
+<br>
+
+### 🗄️ Bases de Datos & Herramientas de Gestión
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Bases de Datos" />
+<br><br>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" title="SQL Server" height="28" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" title="Mongoose" height="28" />
+<img src="https://img.shields.io/badge/Beekeeper_Studio-FFE600?style=flat-square&logo=sqlite&logoColor=black" title="Beekeeper" height="28" />
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" title="DBeaver" height="28" />
+
+<br>
+
+### 🐧 DevOps, Linux & Control de Versiones
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github&theme=dark" alt="DevOps" />
+<br><br>
+<img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" title="Fedora" height="28" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" title="Vercel" height="28" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" title="Render" height="28" />
+<img src="https://img.shields.io/badge/Fork_Client-232323?style=flat-square&logo=git&logoColor=white" title="Fork Client" height="28" />
+<img src="https://img.shields.io/badge/GitFourchette-5A5A5A?style=flat-square&logo=git&logoColor=white" title="GitFourchette" height="28" />
+
+<br>
+
+### 🎮 Desarrollo de Videojuegos & IA Avanzada
+<img src="https://skillicons.dev/icons?i=godot,blender&theme=dark" alt="Game Dev" />
+<br><br>
+<img src="https://img.shields.io/badge/Gemini_AI-1A73E8?style=flat-square&logo=google&logoColor=white" title="Google Gemini" height="28" />
+
+<br>
+
+### 🛠️ Automatización, Auth & Productividad
+<img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" alt="Tools" />
+<br><br>
+<img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" title="Auth0" height="28" />
+<img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" title="Telegram" height="28" />
+<img src="https://img.shields.io/badge/Bruno-E26E40?style=flat-square&logo=bruno&logoColor=white" title="Bruno" height="28" />
+<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" title="Obsidian" height="28" />
+
+<br>
+
+<hr>
+
+## 💼 Experiencia y Proyectos Destacados
 
 <details>
-  <summary><b>🎬 Xolotlán Studios | Desarrollo de Sistemas (Desplegar)</b></summary>
+  <summary><b>🎬 Xolotlán Studios | Desarrollo de Sistemas Integrales</b></summary>
   <br>
-  Desarrollo e implementación de un sistema lógico avanzado para la gestión de citas utilizando <b>n8n</b>. Integración de calendarios, automatización de notificaciones y optimización de los procesos internos del estudio, reduciendo el trabajo manual.
+  <blockquote>
+    Desarrollo e implementación de un sistema lógico avanzado para la gestión de citas. Integración de calendarios, automatización de notificaciones y optimización de los procesos internos del estudio fotográfico para maximizar la eficiencia y reducir el trabajo manual.
+  </blockquote>
 </details>
 
 <details>
-  <summary><b>🎧 Concentrix | Soporte Técnico (Desplegar)</b></summary>
+  <summary><b>🎧 Concentrix | Soporte Técnico B2B (Honduras)</b></summary>
   <br>
-  Atención a técnicos en campo y resolución eficiente de incidencias. Desarrollo de habilidades de comunicación asertiva, trabajo bajo presión y cumplimiento estricto de tiempos de servicio (SLAs).
+  <blockquote>
+    Atención a técnicos en campo y resolución eficiente de incidencias utilizando plataformas empresariales. Desarrollo de habilidades sólidas de comunicación asertiva, resolución de problemas bajo presión y cumplimiento estricto de tiempos de servicio (SLAs).
+  </blockquote>
 </details>
 
 <br>
+
+<hr>
 
 ## 📊 Analíticas de Desarrollo
 
