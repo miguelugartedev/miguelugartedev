@@ -39,21 +39,6 @@ Agente conversacional que responde consultas sobre los eventos de una comunidad.
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square)
 ![Bruno](https://img.shields.io/badge/Bruno-E26E40?style=flat-square)
 
-#### Cómo piensa el agente
-
-```mermaid
-flowchart LR
-    A([Pregunta del usuario]) --> B{Clasificar<br/>categoría}
-    B --> C[Reglas exactas<br/>según la categoría]
-    C --> D[Prompt corto y preciso]
-    M[(Memoria propia<br/>en PostgreSQL)] <--> E
-    D --> E[Agente de IA<br/>vía OpenRouter]
-    F[(Eventos<br/>API oficial)] --> E
-    E --> G{¿Datos<br/>contradictorios?}
-    G -- No --> H([Respuesta])
-    G -- Sí --> I([Avisa y pide confirmar<br/>con la organización])
-```
-
 #### Qué resolví
 
 | Tema | Detalle |
